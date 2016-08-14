@@ -1,4 +1,6 @@
 'use strict';
+// cracking the coding interview 1.1
+
 const str1 = 'abcde';//unique
 const str2 = 'adeac';//dup
 

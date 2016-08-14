@@ -1,4 +1,6 @@
 'use strict';
+// cracking the coding interview 1.2
+
 const str1 = 'ab!d0 e';
 const str2 = 'a0 d!eb';
 

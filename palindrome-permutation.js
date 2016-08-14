@@ -1,4 +1,6 @@
 'use strict';
+// cracking the coding interview 1.4
+
 function permutationOfPalindrome (str){
   let Dict = {};
   let letter;

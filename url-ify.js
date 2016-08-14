@@ -1,4 +1,6 @@
 'use strict';
+// cracking the coding interview 1.3
+
 const a = 'Mr John Smith     ';
 const b = 'My Birthday wish ';
 
