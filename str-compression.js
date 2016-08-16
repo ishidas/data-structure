@@ -1,5 +1,6 @@
 'use strict';
 // string compression if longer than original return original
+//Cracking the Coding Interview 1.6
 
 function compressString(str) {
   if(str.length <= 1) return str !== ' '? str : 'empty string';
