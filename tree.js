@@ -73,6 +73,7 @@ function postOrder (node){
   }
 }
 
+
 let N1 = new BST();
 N1.insert(5);
 N1.insert(8);
